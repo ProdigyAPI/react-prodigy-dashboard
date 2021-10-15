@@ -1,4 +1,4 @@
-import { GameData } from "prodigy-api/lib/GameData"
+import type { GameData } from "prodigy-api/lib/GameData"
 import { Player } from "prodigy-player-api-to-prodigys-format"
 import { CombatFormulas } from "prodigy-player-api-to-prodigys-format/dist/CombatFormulas"
 import React, { useRef, useState } from "react"

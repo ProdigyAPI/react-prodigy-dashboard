@@ -1,4 +1,4 @@
-import { GameData } from "prodigy-api/lib/GameData"
+import type { GameData } from "prodigy-api/lib/GameData"
 import type { Player } from "prodigy-player-api-to-prodigys-format"
 import React, { useRef, useState } from "react"
 import { Button, Dropdown, Form, Modal } from "react-bootstrap"
