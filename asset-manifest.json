@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-prodigy-dashboard/static/css/main.0c1669fb.chunk.css",
-    "main.js": "/react-prodigy-dashboard/static/js/main.1ed5676a.chunk.js",
-    "main.js.map": "/react-prodigy-dashboard/static/js/main.1ed5676a.chunk.js.map",
-    "runtime-main.js": "/react-prodigy-dashboard/static/js/runtime-main.3f04a300.js",
-    "runtime-main.js.map": "/react-prodigy-dashboard/static/js/runtime-main.3f04a300.js.map",
-    "static/js/2.b77bad45.chunk.js": "/react-prodigy-dashboard/static/js/2.b77bad45.chunk.js",
-    "static/js/2.b77bad45.chunk.js.map": "/react-prodigy-dashboard/static/js/2.b77bad45.chunk.js.map",
-    "index.html": "/react-prodigy-dashboard/index.html",
-    "static/css/main.0c1669fb.chunk.css.map": "/react-prodigy-dashboard/static/css/main.0c1669fb.chunk.css.map",
-    "static/js/2.b77bad45.chunk.js.LICENSE.txt": "/react-prodigy-dashboard/static/js/2.b77bad45.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.45f748b4.chunk.css",
+    "main.js": "/static/js/main.1ed5676a.chunk.js",
+    "main.js.map": "/static/js/main.1ed5676a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fc7e916b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fc7e916b.js.map",
+    "static/js/2.a85cbdea.chunk.js": "/static/js/2.a85cbdea.chunk.js",
+    "static/js/2.a85cbdea.chunk.js.map": "/static/js/2.a85cbdea.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.45f748b4.chunk.css.map": "/static/css/main.45f748b4.chunk.css.map",
+    "static/js/2.a85cbdea.chunk.js.LICENSE.txt": "/static/js/2.a85cbdea.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3f04a300.js",
-    "static/js/2.b77bad45.chunk.js",
-    "static/css/main.0c1669fb.chunk.css",
+    "static/js/runtime-main.fc7e916b.js",
+    "static/js/2.a85cbdea.chunk.js",
+    "static/css/main.45f748b4.chunk.css",
     "static/js/main.1ed5676a.chunk.js"
   ]
 }
